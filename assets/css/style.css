@@ -1,3 +1,7 @@
 body {
   background-color: slategray;
 }
+
+.very-nice {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
